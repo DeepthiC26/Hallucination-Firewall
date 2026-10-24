@@ -1,0 +1,2305 @@
+{
+  "snapshots": [
+    {
+      "timestamp": "2026-10-23T04:54:34.990Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Hallucination frequency elevated (53%)",
+        "Knowledge reliability weak (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-23T04:15:57.858Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Hallucination frequency elevated (54%)",
+        "Knowledge reliability weak (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-23T04:13:55.427Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Hallucination frequency elevated (54%)",
+        "Knowledge reliability weak (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-23T04:13:16.131Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-10-23\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Hallucination frequency elevated (54%)",
+        "Knowledge reliability weak (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T13:22:57.968Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Hallucination frequency elevated (54%)",
+        "Knowledge reliability weak (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T13:22:55.199Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Hallucination frequency elevated (54%)",
+        "Knowledge reliability weak (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T13:22:49.613Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Hallucination frequency elevated (54%)",
+        "Knowledge reliability weak (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T13:18:49.759Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (55% non-pass)",
+        "Hallucination frequency elevated (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T13:18:47.201Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (55% non-pass)",
+        "Hallucination frequency elevated (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T13:18:42.184Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (55% non-pass)",
+        "Hallucination frequency elevated (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T10:06:37.258Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (57% non-pass)",
+        "Hallucination frequency elevated (57%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T10:06:34.418Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (57% non-pass)",
+        "Hallucination frequency elevated (57%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T10:06:28.599Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (57% non-pass)",
+        "Hallucination frequency elevated (57%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T10:03:54.503Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (58% non-pass)",
+        "Hallucination frequency elevated (58%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T10:03:51.946Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (58% non-pass)",
+        "Hallucination frequency elevated (58%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T10:03:46.618Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (58% non-pass)",
+        "Hallucination frequency elevated (58%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:41:46.142Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (60% non-pass)",
+        "Hallucination frequency elevated (60%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:41:43.830Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (60% non-pass)",
+        "Hallucination frequency elevated (60%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:41:39.524Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (60% non-pass)",
+        "Hallucination frequency elevated (60%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:35:00.702Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (62% non-pass)",
+        "Hallucination frequency elevated (62%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:34:56.649Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (62% non-pass)",
+        "Hallucination frequency elevated (62%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:34:53.192Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (62% non-pass)",
+        "Hallucination frequency elevated (62%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:31:04.270Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (64% non-pass)",
+        "Hallucination frequency elevated (64%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:28:50.066Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (64% non-pass)",
+        "Hallucination frequency elevated (64%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:28:17.658Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (63% non-pass)",
+        "Hallucination frequency elevated (63%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:28:13.594Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (63% non-pass)",
+        "Hallucination frequency elevated (63%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:28:09.686Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (64% non-pass)",
+        "Hallucination frequency elevated (64%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:27:12.304Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (66% non-pass)",
+        "Hallucination frequency elevated (66%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:16:43.571Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "enterprise",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Knowledge conflict pressure",
+        "Verification failures elevated (68% non-pass)",
+        "Hallucination frequency elevated (68%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:13:21.618Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "enterprise",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Knowledge conflict pressure",
+        "Verification failures elevated (67% non-pass)",
+        "Hallucination frequency elevated (67%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:12:03.554Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "enterprise",
+      "drivers": [
+        "Dataset \"XYZ Company Handbook\" (1 files, 31 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (67% non-pass)",
+        "Hallucination frequency elevated (67%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:09:26.166Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (67% non-pass)",
+        "Hallucination frequency elevated (67%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:08:45.991Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (70% non-pass)",
+        "Hallucination frequency elevated (70%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:06:03.593Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (69% non-pass)",
+        "Hallucination frequency elevated (69%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:01:29.816Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (71% non-pass)",
+        "Hallucination frequency elevated (71%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Legal is currently the healthiest domain. Healthcare requires the most attention. 14 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T09:00:34.129Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-10-21\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (76% non-pass)",
+        "Hallucination frequency elevated (76%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-10-21T08:26:15.823Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (76% non-pass)",
+        "Hallucination frequency elevated (76%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-10-21T08:26:12.276Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (77% non-pass)",
+        "Hallucination frequency elevated (77%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-10-21T08:26:07.201Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (78% non-pass)",
+        "Hallucination frequency elevated (78%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-10-21T08:20:56.450Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (81% non-pass)",
+        "Hallucination frequency elevated (81%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-10-21T08:20:53.457Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (83% non-pass)",
+        "Hallucination frequency elevated (83%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-10-21T08:20:48.058Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "pass",
+      "domain": "legal",
+      "drivers": [
+        "Successful investigation increased trust",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (84% non-pass)",
+        "Hallucination frequency elevated (84%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-10-21T07:55:31.707Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (88% non-pass)",
+        "Hallucination frequency elevated (88%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Healthcare requires the most attention. 13 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-10-21T07:55:27.983Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (90% non-pass)",
+        "Hallucination frequency elevated (90%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T07:55:22.218Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (92% non-pass)",
+        "Hallucination frequency elevated (92%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T06:47:39.944Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "enterprise",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (94% non-pass)",
+        "Hallucination frequency elevated (94%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T06:46:59.926Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "healthcare",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (94% non-pass)",
+        "Hallucination frequency elevated (94%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T06:46:49.741Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "healthcare",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (94% non-pass)",
+        "Hallucination frequency elevated (94%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 13 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T06:46:28.653Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "healthcare",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (94% non-pass)",
+        "Hallucination frequency elevated (94%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 12 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T06:45:34.613Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (94% non-pass)",
+        "Hallucination frequency elevated (94%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 12 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T06:45:19.041Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (94% non-pass)",
+        "Hallucination frequency elevated (94%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 12 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T06:44:40.082Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 12 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T06:41:18.394Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-10-21T06:40:04.112Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-10-21\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-29T08:26:04.073Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-29T08:17:45.137Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "enterprise",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-29T08:17:41.648Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (92% non-pass)",
+        "Hallucination frequency elevated (92%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-29T07:34:42.733Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (96% non-pass)",
+        "Hallucination frequency elevated (96%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T07:34:25.274Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (96% non-pass)",
+        "Hallucination frequency elevated (96%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T07:32:40.293Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Knowledge conflict pressure",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (95% non-pass)",
+        "Hallucination frequency elevated (95%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T07:30:44.541Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-29\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (95% non-pass)",
+        "Hallucination frequency elevated (95%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T06:34:10.499Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (95% non-pass)",
+        "Hallucination frequency elevated (95%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T05:49:07.735Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T05:48:59.350Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T05:48:35.960Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T05:48:20.354Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T05:46:02.380Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "enterprise",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 11 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-29T05:39:50.138Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-29\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-28T16:38:15.414Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-28T16:11:44.529Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-28T14:18:51.109Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-28T14:14:14.994Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-28T14:13:32.040Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-28T14:10:16.542Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-28T14:08:38.385Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-28T14:07:48.652Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-28\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-25T07:55:47.669Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-25T07:55:13.494Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-25T07:54:35.839Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-25T07:54:18.826Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-24T16:24:44.797Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-24T16:21:49.128Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-24T16:14:48.482Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Governance procedures consistently enforced",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 11 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-24T16:10:30.624Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-24\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Hallucination frequency elevated (60%)",
+        "Knowledge reliability weak (55%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Legal requires the most attention. 10 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-09-24T15:45:32.608Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-24\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (77% non-pass)",
+        "Hallucination frequency elevated (77%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-23T15:15:12.884Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-23\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (77% non-pass)",
+        "Hallucination frequency elevated (77%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-16T09:17:27.330Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "healthcare",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (77% non-pass)",
+        "Hallucination frequency elevated (77%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-16T09:15:40.342Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (77% non-pass)",
+        "Hallucination frequency elevated (77%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-16T08:59:53.140Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (76% non-pass)",
+        "Hallucination frequency elevated (76%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-16T08:58:50.595Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (76% non-pass)",
+        "Hallucination frequency elevated (76%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-16T08:57:48.963Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-16\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (75% non-pass)",
+        "Hallucination frequency elevated (75%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-15T15:22:30.381Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (75% non-pass)",
+        "Hallucination frequency elevated (75%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-15T15:22:23.834Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload (\"Constitution Of India\") improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (74% non-pass)",
+        "Hallucination frequency elevated (74%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-15T15:20:41.726Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (74% non-pass)",
+        "Hallucination frequency elevated (74%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-15T15:19:56.973Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (74% non-pass)",
+        "Hallucination frequency elevated (74%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-15T15:11:24.367Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (73% non-pass)",
+        "Hallucination frequency elevated (73%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-15T14:55:12.878Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (72% non-pass)",
+        "Hallucination frequency elevated (72%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-15T14:46:10.545Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (71% non-pass)",
+        "Hallucination frequency elevated (71%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-15T14:45:07.698Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-15\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (71% non-pass)",
+        "Hallucination frequency elevated (71%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-08T15:23:54.722Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (71% non-pass)",
+        "Hallucination frequency elevated (71%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-08T15:19:30.817Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (70% non-pass)",
+        "Hallucination frequency elevated (70%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-08T15:17:17.218Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-08\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (69% non-pass)",
+        "Hallucination frequency elevated (69%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-03T14:09:13.976Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (69% non-pass)",
+        "Hallucination frequency elevated (69%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-09-03T14:08:03.161Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Dataset_2026-09-03\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (68% non-pass)",
+        "Hallucination frequency elevated (68%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-08-23T17:49:42.703Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Knowledge conflict pressure",
+        "Verification failures elevated (68% non-pass)",
+        "Hallucination frequency elevated (68%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-08-23T17:48:49.520Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (67% non-pass)",
+        "Hallucination frequency elevated (67%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-08-23T17:47:33.562Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Knowledge conflict pressure",
+        "Verification failures elevated (66% non-pass)",
+        "Hallucination frequency elevated (66%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-08-23T17:10:36.129Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "healthcare",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (67% non-pass)",
+        "Hallucination frequency elevated (67%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-08-23T16:30:14.298Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (81% non-pass)",
+        "Hallucination frequency elevated (81%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 12 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-08-23T16:22:28.859Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "block",
+      "domain": "legal",
+      "drivers": [
+        "Hallucination / block decreased trust",
+        "Verification failures elevated (80% non-pass)",
+        "Hallucination frequency elevated (80%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 10 governance risk(s) remain open "
+    },
+    {
+      "timestamp": "2026-08-23T16:19:56.211Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Dataset \"Legal\" (2 files, 483 chunks) indexed successfully",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Verification failures elevated (79% non-pass)",
+        "Hallucination frequency elevated (79%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 9 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T08:16:30.637Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (94% non-pass)",
+        "Hallucination frequency elevated (94%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T08:16:16.440Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T08:15:39.391Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T08:13:20.293Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T08:01:10.808Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T08:00:31.721Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "healthcare",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (93% non-pass)",
+        "Hallucination frequency elevated (93%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T07:57:17.145Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (92% non-pass)",
+        "Hallucination frequency elevated (92%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T07:57:10.927Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (92% non-pass)",
+        "Hallucination frequency elevated (92%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T07:56:33.263Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (91% non-pass)",
+        "Hallucination frequency elevated (91%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-23T07:55:20.146Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (91% non-pass)",
+        "Hallucination frequency elevated (91%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-22T06:51:22.313Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (91% non-pass)",
+        "Hallucination frequency elevated (91%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-22T06:51:04.769Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (90% non-pass)",
+        "Hallucination frequency elevated (90%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-22T06:48:13.335Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (90% non-pass)",
+        "Hallucination frequency elevated (90%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-20T08:45:20.117Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "healthcare",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (90% non-pass)",
+        "Hallucination frequency elevated (90%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-20T08:42:38.877Z",
+      "ecosystemTrust": 0.05,
+      "delta": -0.018,
+      "decision": "rewrite",
+      "domain": "enterprise",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Knowledge conflict pressure",
+        "Contradiction pressure low",
+        "Verification failures elevated (89% non-pass)",
+        "Hallucination frequency elevated (89%)"
+      ],
+      "summary": "Ecosystem trust is 5% and declining versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain ope"
+    },
+    {
+      "timestamp": "2026-08-20T08:42:25.675Z",
+      "ecosystemTrust": 0.068,
+      "delta": -0.001,
+      "domain": "enterprise",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (88% non-pass)",
+        "Hallucination frequency elevated (88%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-20T08:41:35.815Z",
+      "ecosystemTrust": 0.069,
+      "delta": 0,
+      "domain": "enterprise",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (88% non-pass)",
+        "Hallucination frequency elevated (88%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-20T08:38:26.201Z",
+      "ecosystemTrust": 0.069,
+      "delta": -0.001,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (88% non-pass)",
+        "Hallucination frequency elevated (88%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-20T08:36:19.926Z",
+      "ecosystemTrust": 0.07,
+      "delta": -0.001,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (88% non-pass)",
+        "Hallucination frequency elevated (88%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-19T14:52:32.649Z",
+      "ecosystemTrust": 0.071,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (88% non-pass)",
+        "Hallucination frequency elevated (88%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain open u"
+    },
+    {
+      "timestamp": "2026-08-19T14:51:07.851Z",
+      "ecosystemTrust": 0.071,
+      "delta": 0.021,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (88% non-pass)",
+        "Hallucination frequency elevated (88%)"
+      ],
+      "summary": "Ecosystem trust is 7% and improving versus recent operations. Healthcare is currently the healthiest domain. Enterprise requires the most attention. 8 governance risk(s) remain ope"
+    },
+    {
+      "timestamp": "2026-08-18T15:16:02.542Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. 8 governance risk(s) remain open until resolved. Primary drag: Verificatio"
+    },
+    {
+      "timestamp": "2026-08-18T15:15:47.421Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. 8 governance risk(s) remain open until resolved. Primary drag: Verificatio"
+    },
+    {
+      "timestamp": "2026-08-18T15:14:53.631Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. 8 governance risk(s) remain open until resolved. Primary drag: Verificatio"
+    },
+    {
+      "timestamp": "2026-08-16T16:37:21.980Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "enterprise",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Knowledge conflict pressure",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. 8 governance risk(s) remain open until resolved. Primary drag: Verificatio"
+    },
+    {
+      "timestamp": "2026-08-16T16:37:08.827Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "enterprise",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-16T16:36:37.851Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "enterprise",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-16T16:12:01.700Z",
+      "ecosystemTrust": 0.05,
+      "delta": 0,
+      "domain": "enterprise",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T09:42:11.977Z",
+      "ecosystemTrust": 0.05,
+      "delta": -0.016,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 5% and declining versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open unt"
+    },
+    {
+      "timestamp": "2026-08-06T09:41:55.395Z",
+      "ecosystemTrust": 0.066,
+      "delta": -0.002,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T09:41:08.744Z",
+      "ecosystemTrust": 0.068,
+      "delta": -0.002,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:25:09.557Z",
+      "ecosystemTrust": 0.07,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:24:45.000Z",
+      "ecosystemTrust": 0.07,
+      "delta": -0.003,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:23:45.372Z",
+      "ecosystemTrust": 0.073,
+      "delta": -0.003,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 7% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:19:10.647Z",
+      "ecosystemTrust": 0.076,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 8% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 8 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:18:53.914Z",
+      "ecosystemTrust": 0.076,
+      "delta": -0.003,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 8% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 7 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:18:12.694Z",
+      "ecosystemTrust": 0.079,
+      "delta": -0.005,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 8% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 7 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:13:45.890Z",
+      "ecosystemTrust": 0.084,
+      "delta": 0,
+      "decision": "rewrite",
+      "domain": "healthcare",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 8% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 7 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:13:21.539Z",
+      "ecosystemTrust": 0.084,
+      "delta": -0.006,
+      "domain": "healthcare",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority unknown",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 8% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 7 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:13:13.856Z",
+      "ecosystemTrust": 0.09,
+      "delta": -0.008,
+      "domain": "healthcare",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority unknown",
+        "Index decision: index_with_warnings",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 9% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 7 governance risk(s) remain open until "
+    },
+    {
+      "timestamp": "2026-08-06T08:13:04.357Z",
+      "ecosystemTrust": 0.098,
+      "delta": -0.03,
+      "domain": "healthcare",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority unknown",
+        "Index decision: index_with_warnings",
+        "Knowledge quality improving (72%)",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)"
+      ],
+      "summary": "Ecosystem trust is 10% and declining versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 7 governance risk(s) remain open un"
+    },
+    {
+      "timestamp": "2026-08-06T08:12:21.803Z",
+      "ecosystemTrust": 0.128,
+      "delta": 0.011,
+      "domain": "healthcare",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority unknown",
+        "Index decision: index",
+        "Knowledge quality improving (76%)",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)"
+      ],
+      "summary": "Ecosystem trust is 13% and stable versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 7 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-08-06T08:05:24.353Z",
+      "ecosystemTrust": 0.117,
+      "delta": -0.32,
+      "decision": "rewrite",
+      "domain": "legal",
+      "drivers": [
+        "Rewritten response — learning opportunity",
+        "Hallucination / block decreased trust",
+        "Knowledge quality improving (74%)",
+        "Contradiction pressure low",
+        "Verification failures elevated (100% non-pass)",
+        "Hallucination frequency elevated (100%)"
+      ],
+      "summary": "Ecosystem trust is 12% and declining versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 9 governance risk(s) remain open un"
+    },
+    {
+      "timestamp": "2026-08-06T08:05:09.375Z",
+      "ecosystemTrust": 0.437,
+      "delta": -0.039,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Knowledge quality improving (74%)",
+        "Duplicate documents reduce retrieval clarity (2)",
+        "Missing knowledge areas (7)"
+      ],
+      "summary": "Ecosystem trust is 44% and declining versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 9 governance risk(s) remain open un"
+    },
+    {
+      "timestamp": "2026-08-06T08:04:13.975Z",
+      "ecosystemTrust": 0.476,
+      "delta": -0.06,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index_with_warnings",
+        "Knowledge quality improving (81%)",
+        "Duplicate documents reduce retrieval clarity (1)",
+        "Missing knowledge areas (7)"
+      ],
+      "summary": "Ecosystem trust is 48% and declining versus recent operations. Enterprise is currently the healthiest domain. Legal requires the most attention. 9 governance risk(s) remain open un"
+    },
+    {
+      "timestamp": "2026-08-06T08:04:05.479Z",
+      "ecosystemTrust": 0.536,
+      "delta": 0.002,
+      "domain": "legal",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index",
+        "Knowledge quality improving (97%)",
+        "Missing knowledge areas (7)"
+      ],
+      "summary": "Ecosystem trust is 54% and stable versus recent operations. Legal is currently the healthiest domain. Enterprise requires the most attention. 7 governance risk(s) remain open until"
+    },
+    {
+      "timestamp": "2026-08-06T08:00:09.073Z",
+      "ecosystemTrust": 0.534,
+      "delta": 0,
+      "domain": "enterprise",
+      "drivers": [
+        "Verified knowledge upload improved knowledge health",
+        "Authority primary",
+        "Index decision: index",
+        "Knowledge quality improving (97%)",
+        "Missing knowledge areas (8)"
+      ],
+      "summary": "Ecosystem trust is 53% and stable versus recent operations. Enterprise is currently the healthiest domain. 8 governance risk(s) remain open until resolved. Run verifications to ear"
+    }
+  ],
+  "openRiskIds": [
+    "knowledge:gap_missing_travel_policy",
+    "knowledge:gap_missing_remote_work_policy",
+    "knowledge:gap_missing_leave_maternity_policy",
+    "knowledge:gap_missing_treatment_protocol_clinical_guideline",
+    "policy:duplicate_policies",
+    "policy:policy_conflicts",
+    "legal:legal_uncertainty",
+    "medical:clinical_ambiguity",
+    "privacy:sensitive_exposure",
+    "compliance:governance_violations",
+    "compliance:repeat_unknown",
+    "compliance:repeat_weak_retrieval_missing_evidence_model_reasoning_failure",
+    "compliance:repeat_conflicting_documents_model_reasoning_failure"
+  ]
+}
